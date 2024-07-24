@@ -4,8 +4,8 @@
 
 ###
 
-<h2 align="left">Hi 👋</h2>
-<p>Hello there! I'm Mohammed Abdelhak, a front-end developer from Algeria, with a passion for crafting engaging user experiences through HTML and CSS. I excel at transforming designs into responsive and visually appealing websites. Currently expanding my skill set with JavaScript to add dynamic functionalities. I'm dedicated to writing clean code and enthusiastic about collaborating on projects that advance web development. Let's connect and create something extraordinary together!</p>
+<h2 align="left">Hello there! 👋</h2>
+<p>I'm Mohammed Abdelhak, a front-end developer from Algeria, with a passion for crafting engaging user experiences through HTML and CSS. I excel at transforming designs into responsive and visually appealing websites. Currently expanding my skill set with JavaScript to add dynamic functionalities. I'm dedicated to writing clean code and enthusiastic about collaborating on projects that advance web development. Let's connect and create something extraordinary together!</p>
 
 ###
 
